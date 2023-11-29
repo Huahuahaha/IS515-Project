@@ -1,0 +1,7 @@
+StatusID,StatusType,StatusBrief,MeasuredTime,HealthRecordID
+1,Blood Pressure,120/80,2023-01-04,1
+2,Urine Analysis,Trace proteins found,2023-02-10,2
+3,Chest X-Ray,Clear lungs,2023-03-15,3
+4,ECG,Normal sinus rhythm,2023-04-20,4
+5,Blood Sugar,Slightly elevated,2023-05-05,5
+6,Thyroid Panel,Within normal range,2023-06-10,6
