@@ -1,4 +1,4 @@
-ID,Name,Type,StartDate,EstimatedEndDate,HealthRecordID
+ID,Mname,Type,StartDate,EstimatedEndDate,HealthRecordID
 1,Amoxicillin,Antibiotic,2023-04-01,2023-04-14,1
 2,Ibuprofen,Anti-inflammatory,2023-04-05,2023-04-19,2
 3,Paracetamol,Analgesic,2023-04-10,2023-04-24,3
@@ -6,4 +6,4 @@ ID,Name,Type,StartDate,EstimatedEndDate,HealthRecordID
 5,Atorvastatin,Statins,2023-04-20,2023-05-04,5
 6,Lisinopril,doxycycline,2023-04-25,2023-05-09,6
 7,Lisinopril,azithromycin,2023-04-25,2023-05-09,1
-8,Lisinopril,colchicine,2023-04-25,2023-05-09,1
+8,Lisinopril,colchicine,2023-04-25,2023-05-09,3
